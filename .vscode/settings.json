@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "Dart-Code": true,
+        "Dart-Code.dart-code": true
+    }
+}
